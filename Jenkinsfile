@@ -1,4 +1,4 @@
-@Library('pipeline-library-java@feature/mat-476-fossa-scans') _
+@Library('pipeline-library-java@6.0.7') _
 
 pipelineLibraryJava(
     channel: '#outbound-pipeline',
